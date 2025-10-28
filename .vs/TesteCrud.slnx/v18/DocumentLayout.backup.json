@@ -1,0 +1,250 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\thome\\source\\repos\\TesteCrud\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9CCAA2D4-FB9E-4A98-8745-C837357ECBC5}|TesteCrud\\WebAPI.csproj|c:\\users\\thome\\source\\repos\\testecrud\\testecrud\\controllers\\produtocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9CCAA2D4-FB9E-4A98-8745-C837357ECBC5}|TesteCrud\\WebAPI.csproj|solutionrelative:testecrud\\controllers\\produtocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D52D194E-141E-487B-9D38-66239E054F55}|Produto\\Produto.csproj|c:\\users\\thome\\source\\repos\\testecrud\\produto\\produtos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D52D194E-141E-487B-9D38-66239E054F55}|Produto\\Produto.csproj|solutionrelative:produto\\produtos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{61FC3A8A-4350-4A1D-9CC5-9961C96767F5}|ProdutoRepository\\ProdutoRepository.csproj|c:\\users\\thome\\source\\repos\\testecrud\\produtorepository\\produtorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{61FC3A8A-4350-4A1D-9CC5-9961C96767F5}|ProdutoRepository\\ProdutoRepository.csproj|solutionrelative:produtorepository\\produtorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2C8AB8ED-213D-446A-8436-305181A83578}|IProdutoRepository\\IProdutoRepository.csproj|c:\\users\\thome\\source\\repos\\testecrud\\iprodutorepository\\iprodutointerface.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2C8AB8ED-213D-446A-8436-305181A83578}|IProdutoRepository\\IProdutoRepository.csproj|solutionrelative:iprodutorepository\\iprodutointerface.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\thome\\AppData\\Local\\Temp\\g0bwurzv..sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\thome\\AppData\\Local\\Temp\\dcrjnygb..sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9CCAA2D4-FB9E-4A98-8745-C837357ECBC5}|TesteCrud\\WebAPI.csproj|c:\\users\\thome\\source\\repos\\testecrud\\testecrud\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9CCAA2D4-FB9E-4A98-8745-C837357ECBC5}|TesteCrud\\WebAPI.csproj|solutionrelative:testecrud\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{78AE0B5D-4D1C-4C1E-8DF4-4CCCD6611DBD}|AppDbContext\\AppDbContext.csproj|c:\\users\\thome\\source\\repos\\testecrud\\appdbcontext\\dbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{78AE0B5D-4D1C-4C1E-8DF4-4CCCD6611DBD}|AppDbContext\\AppDbContext.csproj|solutionrelative:appdbcontext\\dbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9CCAA2D4-FB9E-4A98-8745-C837357ECBC5}|TesteCrud\\WebAPI.csproj|c:\\users\\thome\\source\\repos\\testecrud\\testecrud\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{9CCAA2D4-FB9E-4A98-8745-C837357ECBC5}|TesteCrud\\WebAPI.csproj|solutionrelative:testecrud\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\thome\\AppData\\Local\\Temp\\x03lwlmi..sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\thome\\AppData\\Local\\Temp\\gh3zcich..sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\thome\\AppData\\Local\\Temp\\tf3y2cz1..sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{78AE0B5D-4D1C-4C1E-8DF4-4CCCD6611DBD}|AppDbContext\\AppDbContext.csproj|c:\\users\\thome\\source\\repos\\testecrud\\appdbcontext\\appdbcontext.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{78AE0B5D-4D1C-4C1E-8DF4-4CCCD6611DBD}|AppDbContext\\AppDbContext.csproj|solutionrelative:appdbcontext\\appdbcontext.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\thome\\AppData\\Local\\Temp\\tf3y2cz1..sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}|CodeFrame"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\thome\\AppData\\Local\\Temp\\gh3zcich..sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}|CodeFrame"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\thome\\AppData\\Local\\Temp\\x03lwlmi..sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}|CodeFrame"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\thome\\AppData\\Local\\Temp\\x03lwlmi..sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}|ResultFrame"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\thome\\AppData\\Local\\Temp\\g0bwurzv..sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}|CodeFrame"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\thome\\AppData\\Local\\Temp\\g0bwurzv..sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}|ResultFrame"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\thome\\AppData\\Local\\Temp\\dcrjnygb..sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}|CodeFrame"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\thome\\AppData\\Local\\Temp\\dcrjnygb..sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}|ResultFrame"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "SQLQuery4.sql ",
+              "DocumentMoniker": "C:\\Users\\thome\\AppData\\Local\\Temp\\g0bwurzv..sql",
+              "RelativeDocumentMoniker": "..\\..\\..\\AppData\\Local\\Temp\\g0bwurzv..sql",
+              "ToolTip": "SQLQuery4.sql *",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2025-10-28T23:22:54.063Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "IProdutoInterface.cs",
+              "DocumentMoniker": "C:\\Users\\thome\\source\\repos\\TesteCrud\\IProdutoRepository\\IProdutoInterface.cs",
+              "RelativeDocumentMoniker": "IProdutoRepository\\IProdutoInterface.cs",
+              "ToolTip": "C:\\Users\\thome\\source\\repos\\TesteCrud\\IProdutoRepository\\IProdutoInterface.cs",
+              "RelativeToolTip": "IProdutoRepository\\IProdutoInterface.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-28T21:25:13.374Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ProdutoRepository.cs",
+              "DocumentMoniker": "C:\\Users\\thome\\source\\repos\\TesteCrud\\ProdutoRepository\\ProdutoRepository.cs",
+              "RelativeDocumentMoniker": "ProdutoRepository\\ProdutoRepository.cs",
+              "ToolTip": "C:\\Users\\thome\\source\\repos\\TesteCrud\\ProdutoRepository\\ProdutoRepository.cs",
+              "RelativeToolTip": "ProdutoRepository\\ProdutoRepository.cs",
+              "ViewState": "AgIAABQAAAAAAAAAAAAIwC8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-28T21:20:15.863Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Produtos.cs",
+              "DocumentMoniker": "C:\\Users\\thome\\source\\repos\\TesteCrud\\Produto\\Produtos.cs",
+              "RelativeDocumentMoniker": "Produto\\Produtos.cs",
+              "ToolTip": "C:\\Users\\thome\\source\\repos\\TesteCrud\\Produto\\Produtos.cs",
+              "RelativeToolTip": "Produto\\Produtos.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-28T21:07:01.314Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\thome\\source\\repos\\TesteCrud\\TesteCrud\\appsettings.json",
+              "RelativeDocumentMoniker": "TesteCrud\\appsettings.json",
+              "ToolTip": "C:\\Users\\thome\\source\\repos\\TesteCrud\\TesteCrud\\appsettings.json",
+              "RelativeToolTip": "TesteCrud\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-10-28T21:01:13.366Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\thome\\source\\repos\\TesteCrud\\TesteCrud\\Program.cs",
+              "RelativeDocumentMoniker": "TesteCrud\\Program.cs",
+              "ToolTip": "C:\\Users\\thome\\source\\repos\\TesteCrud\\TesteCrud\\Program.cs",
+              "RelativeToolTip": "TesteCrud\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAABEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-28T20:57:33.115Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ProdutoController.cs",
+              "DocumentMoniker": "C:\\Users\\thome\\source\\repos\\TesteCrud\\TesteCrud\\Controllers\\ProdutoController.cs",
+              "RelativeDocumentMoniker": "TesteCrud\\Controllers\\ProdutoController.cs",
+              "ToolTip": "C:\\Users\\thome\\source\\repos\\TesteCrud\\TesteCrud\\Controllers\\ProdutoController.cs",
+              "RelativeToolTip": "TesteCrud\\Controllers\\ProdutoController.cs",
+              "ViewState": "AgIAACEAAAAAAAAAAAAowDQAAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-28T21:32:45.389Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "SQLQuery5.sql ",
+              "DocumentMoniker": "C:\\Users\\thome\\AppData\\Local\\Temp\\dcrjnygb..sql",
+              "RelativeDocumentMoniker": "..\\..\\..\\AppData\\Local\\Temp\\dcrjnygb..sql",
+              "ToolTip": "SQLQuery5.sql *",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2025-10-28T23:26:47.718Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "DbContext.cs",
+              "DocumentMoniker": "C:\\Users\\thome\\source\\repos\\TesteCrud\\AppDbContext\\DbContext.cs",
+              "RelativeDocumentMoniker": "AppDbContext\\DbContext.cs",
+              "ToolTip": "C:\\Users\\thome\\source\\repos\\TesteCrud\\AppDbContext\\DbContext.cs",
+              "RelativeToolTip": "AppDbContext\\DbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-28T20:52:00.464Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "AppDbContext",
+              "DocumentMoniker": "C:\\Users\\thome\\source\\repos\\TesteCrud\\AppDbContext\\AppDbContext.csproj",
+              "RelativeDocumentMoniker": "AppDbContext\\AppDbContext.csproj",
+              "ToolTip": "C:\\Users\\thome\\source\\repos\\TesteCrud\\AppDbContext\\AppDbContext.csproj",
+              "RelativeToolTip": "AppDbContext\\AppDbContext.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-10-28T21:05:03.902Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "SQLQuery2.sql ",
+              "DocumentMoniker": "C:\\Users\\thome\\AppData\\Local\\Temp\\gh3zcich..sql",
+              "RelativeDocumentMoniker": "..\\..\\..\\AppData\\Local\\Temp\\gh3zcich..sql",
+              "ToolTip": "SQLQuery2.sql *",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2025-10-28T23:00:04.295Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "SQLQuery3.sql ",
+              "DocumentMoniker": "C:\\Users\\thome\\AppData\\Local\\Temp\\x03lwlmi..sql",
+              "RelativeDocumentMoniker": "..\\..\\..\\AppData\\Local\\Temp\\x03lwlmi..sql",
+              "ToolTip": "SQLQuery3.sql *",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2025-10-28T23:00:30.038Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "SQLQuery1.sql ",
+              "DocumentMoniker": "C:\\Users\\thome\\AppData\\Local\\Temp\\tf3y2cz1..sql",
+              "RelativeDocumentMoniker": "..\\..\\..\\AppData\\Local\\Temp\\tf3y2cz1..sql",
+              "ToolTip": "SQLQuery1.sql ",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2025-10-28T22:59:18.673Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

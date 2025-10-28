@@ -1,0 +1,15 @@
+C:\Users\thome\source\repos\TesteCrud\IProdutoRepository\bin\Debug\net8.0\IProdutoRepository.deps.json
+C:\Users\thome\source\repos\TesteCrud\IProdutoRepository\bin\Debug\net8.0\IProdutoRepository.dll
+C:\Users\thome\source\repos\TesteCrud\IProdutoRepository\bin\Debug\net8.0\IProdutoRepository.pdb
+C:\Users\thome\source\repos\TesteCrud\IProdutoRepository\bin\Debug\net8.0\Produto.dll
+C:\Users\thome\source\repos\TesteCrud\IProdutoRepository\bin\Debug\net8.0\Produto.pdb
+C:\Users\thome\source\repos\TesteCrud\IProdutoRepository\obj\Debug\net8.0\IProdutoRepository.csproj.AssemblyReference.cache
+C:\Users\thome\source\repos\TesteCrud\IProdutoRepository\obj\Debug\net8.0\IProdutoRepository.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\thome\source\repos\TesteCrud\IProdutoRepository\obj\Debug\net8.0\IProdutoRepository.AssemblyInfoInputs.cache
+C:\Users\thome\source\repos\TesteCrud\IProdutoRepository\obj\Debug\net8.0\IProdutoRepository.AssemblyInfo.cs
+C:\Users\thome\source\repos\TesteCrud\IProdutoRepository\obj\Debug\net8.0\IProdutoRepository.csproj.CoreCompileInputs.cache
+C:\Users\thome\source\repos\TesteCrud\IProdutoRepository\obj\Debug\net8.0\IProduto.40B540BA.Up2Date
+C:\Users\thome\source\repos\TesteCrud\IProdutoRepository\obj\Debug\net8.0\IProdutoRepository.dll
+C:\Users\thome\source\repos\TesteCrud\IProdutoRepository\obj\Debug\net8.0\refint\IProdutoRepository.dll
+C:\Users\thome\source\repos\TesteCrud\IProdutoRepository\obj\Debug\net8.0\IProdutoRepository.pdb
+C:\Users\thome\source\repos\TesteCrud\IProdutoRepository\obj\Debug\net8.0\ref\IProdutoRepository.dll

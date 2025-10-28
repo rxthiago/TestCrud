@@ -1,0 +1,20 @@
+<Solution>
+  <Folder Name="/1 - Domain/" />
+  <Folder Name="/1 - Domain/Entities/">
+    <Project Path="Produto/Produto.csproj" />
+  </Folder>
+  <Folder Name="/2 - Application/" />
+  <Folder Name="/2 - Application/Interfaces/">
+    <Project Path="IProdutoRepository/IProdutoRepository.csproj" />
+  </Folder>
+  <Folder Name="/3 - Infrastructure/" />
+  <Folder Name="/3 - Infrastructure/Data/">
+    <Project Path="AppDbContext/AppDbContext.csproj" />
+  </Folder>
+  <Folder Name="/3 - Infrastructure/Repositories/">
+    <Project Path="ProdutoRepository/ProdutoRepository.csproj" />
+  </Folder>
+  <Folder Name="/4 - WebAPI/">
+    <Project Path="TesteCrud/WebAPI.csproj" />
+  </Folder>
+</Solution>

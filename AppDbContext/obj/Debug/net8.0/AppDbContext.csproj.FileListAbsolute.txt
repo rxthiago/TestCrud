@@ -1,0 +1,17 @@
+C:\Users\thome\source\repos\TesteCrud\AppDbContext\bin\Debug\net8.0\AppDbContext.deps.json
+C:\Users\thome\source\repos\TesteCrud\AppDbContext\bin\Debug\net8.0\AppDbContext.runtimeconfig.json
+C:\Users\thome\source\repos\TesteCrud\AppDbContext\bin\Debug\net8.0\AppDbContext.dll
+C:\Users\thome\source\repos\TesteCrud\AppDbContext\bin\Debug\net8.0\AppDbContext.pdb
+C:\Users\thome\source\repos\TesteCrud\AppDbContext\bin\Debug\net8.0\Produto.dll
+C:\Users\thome\source\repos\TesteCrud\AppDbContext\bin\Debug\net8.0\Produto.pdb
+C:\Users\thome\source\repos\TesteCrud\AppDbContext\obj\Debug\net8.0\AppDbContext.csproj.AssemblyReference.cache
+C:\Users\thome\source\repos\TesteCrud\AppDbContext\obj\Debug\net8.0\AppDbContext.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\thome\source\repos\TesteCrud\AppDbContext\obj\Debug\net8.0\AppDbContext.AssemblyInfoInputs.cache
+C:\Users\thome\source\repos\TesteCrud\AppDbContext\obj\Debug\net8.0\AppDbContext.AssemblyInfo.cs
+C:\Users\thome\source\repos\TesteCrud\AppDbContext\obj\Debug\net8.0\AppDbContext.csproj.CoreCompileInputs.cache
+C:\Users\thome\source\repos\TesteCrud\AppDbContext\obj\Debug\net8.0\AppDbCon.7D6897F8.Up2Date
+C:\Users\thome\source\repos\TesteCrud\AppDbContext\obj\Debug\net8.0\AppDbContext.dll
+C:\Users\thome\source\repos\TesteCrud\AppDbContext\obj\Debug\net8.0\refint\AppDbContext.dll
+C:\Users\thome\source\repos\TesteCrud\AppDbContext\obj\Debug\net8.0\AppDbContext.pdb
+C:\Users\thome\source\repos\TesteCrud\AppDbContext\obj\Debug\net8.0\AppDbContext.genruntimeconfig.cache
+C:\Users\thome\source\repos\TesteCrud\AppDbContext\obj\Debug\net8.0\ref\AppDbContext.dll
