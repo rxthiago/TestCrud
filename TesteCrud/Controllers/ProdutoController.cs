@@ -1,6 +1,8 @@
 ﻿using Microsoft.AspNetCore.Mvc;
 using _2_Application.Interfaces;
 using _1_Domain.Entities;
+using _3_Infrastructure.Data;
+using _3_Infrastructure.Repositories;
 
 namespace WebAPI.Controllers
 {
@@ -63,6 +65,26 @@ namespace WebAPI.Controllers
             if (existing == null) return NotFound();
 
             await _repository.DeleteAsync(id);
+            return NoContent();
+        }
+
+        [HttpPatch("{id:int}")]
+        public async Task<IActionResult> Patch(int id, [FromBody] Produto produto)
+        {
+            if (produto == null) return BadRequest();
+            var existing = await _repository.GetByIdAsync(id);
+            if (existing == null) return NotFound();
+
+            if (!string.IsNullOrEmpty(produto.Nome))
+                existing.Nome = produto.Nome;
+
+            if (produto.Preco != 0)
+                existing.Preco = produto.Preco;
+
+            if (produto.Quantidade != 0)
+                existing.Quantidade = produto.Quantidade;
+
+            await _repository.UpdateAsync(existing);
             return NoContent();
         }
     }
